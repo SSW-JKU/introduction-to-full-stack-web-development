@@ -34,6 +34,10 @@ sub
 
 next
 
+<img src="imgs/outline.png" height=200>
+
+next
+
 # Backend
 
 The **backend** is not only a single web server application but:
